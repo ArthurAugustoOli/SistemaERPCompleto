@@ -1,0 +1,17 @@
+{
+    "name": "romulo1/projeto-erp",
+    "autoload": {
+        "psr-4": {
+            "Romulo1\\ProjetoErp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "openspaceoficial",
+            "email": "openspacemidiasocial@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^4.2"
+    }
+}
